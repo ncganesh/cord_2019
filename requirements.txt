@@ -1,0 +1,10 @@
+dash_table==4.7.0
+joblib==0.14.1
+dash_core_components==1.10.0
+pandas==0.24.2
+scipy==1.2.1
+dash==1.12.0
+sentence_transformers==0.2.6.1
+dash_html_components==1.0.3
+Flask==1.1.2
+numpy==1.16.2
