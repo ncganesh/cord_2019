@@ -6,6 +6,6 @@ scipy==1.2.1
 dash==1.12.0
 sentence_transformers==0.2.6.1
 dash_html_components==1.0.3
-Flask==1.1.2
+Flask==2.3.2
 numpy==1.16.2
 gunicorn==20.0.4
